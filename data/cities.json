@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "id": "a531",
+      "cityName": "Parkano",
+      "country": "Finland",
+      "emoji": "🇫🇮",
+      "date": "2024-10-08T13:48:45.060Z",
+      "notes": "Parkano Dream destination",
+      "position": {
+        "lat": "61.98270995409034",
+        "lng": "23.270087314412272"
+      }
+    },
+    {
+      "id": "6f4d",
+      "cityName": "Parabel’",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-10-08T13:49:00.625Z",
+      "notes": "Russia Second destination",
+      "position": {
+        "lat": "57.91668313923583",
+        "lng": "78.6849965232317"
+      }
+    },
+    {
+      "id": "6460",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-08T13:53:03.284Z",
+      "notes": "",
+      "position": {
+        "lat": "40.00420596335446",
+        "lng": "-0.000724073707731865"
+      }
+    },
+    {
+      "id": "cfa1",
+      "cityName": "Quintanilla de Urz",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-11T09:49:18.846Z",
+      "notes": "",
+      "position": {
+        "lat": "42.0492643320465",
+        "lng": "-5.846030843571686"
+      }
+    },
+    {
+      "id": "7ad5",
+      "cityName": "Renneville",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-10-11T09:52:21.641Z",
+      "notes": "What ",
+      "position": {
+        "lat": "43.37304220426921",
+        "lng": "1.731784066947837"
+      }
+    }
+  ]
+}
